@@ -1,2 +1,1 @@
-# config
-store config file,etc.
+## Terraform infrastructure bootstraping
